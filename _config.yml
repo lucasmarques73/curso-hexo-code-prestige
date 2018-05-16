@@ -87,3 +87,9 @@ menu:
   Instagram: https://www.instagram.com
   LinkedIn: https://www.linkedin.com
   Facebook: https://www.facebook.com
+
+# hexo-admin authentification
+admin:
+  username: admin
+  password_hash: $2a$10$FUuxTar5MXG3WMTGEwxqhutRsKx1ObBpxnFwZnjjgTaVocXagNYRa
+  secret: my super secret phrase
