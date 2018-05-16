@@ -82,6 +82,7 @@ deploy:
 
 # Header
 menu:
+  Home: /
   About: /nova-pagina
   Instagram: https://www.instagram.com
   LinkedIn: https://www.linkedin.com
